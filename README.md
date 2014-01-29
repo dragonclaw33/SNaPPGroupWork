@@ -1,7 +1,8 @@
 SNaPPGroupWork
+Group Development
 ==============
 
 Android is God and Cat is poetry
 
-Please Pull this to Eclipse
-Any Changes to recored for Version Control
+Please Pull this to Eclipse - 
+Any Changes to be recored for Version Control
